@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Semen",
+        "deskripsi": "Semen Kualitas Bagus",
+        "harga": 50000
+    },
+    {
+        "nama": "Besi",
+        "deskripsi": "Besi Kualitas Bagus",
+        "harga": 70000
+    },
+    {
+        "nama": "Cat",
+        "deskripsi": "Cat Kualitas Bagus",
+        "harga": 40000
+    },
+    {
+        "nama": "Kusen",
+        "deskripsi": "Kusen Kualitas Bagus",
+        "harga": 150000
+    },
+    {
+        "nama": "Amplas",
+        "deskripsi": "Amplas Kualitas Bagus",
+        "harga": 5000
+    },
+    {
+        "nama": "Palu",
+        "deskripsi": "Palu Kualitas Bagus",
+        "harga": 24000
+    },
+    {
+        "nama": "Paku",
+        "deskripsi": "Paku Kualitas Bagus",
+        "harga": 500
+    }
+]
